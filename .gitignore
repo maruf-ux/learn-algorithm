@@ -1,0 +1,6 @@
+# Ignore object files in the /array/ directory
+/array/*.o
+/array/*.exe
+
+# Do not ignore C++ source files in the /array/ directory
+!/array/*.cpp
