@@ -3,7 +3,10 @@
 /array/*.exe
 /sorting/*.o
 /sorting/*.exe
+/binary-search/*.o
+/binary-search/*.exe
 
 # Do not ignore C++ source files in the /array/ directory
 !/array/*.cpp
 !/sorting/*.cpp
+!/binary-search/*.cpp
