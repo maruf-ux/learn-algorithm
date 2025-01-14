@@ -5,8 +5,11 @@
 /sorting/*.exe
 /binary-search/*.o
 /binary-search/*.exe
+/number/*.o
+/number/*.exe
 
 # Do not ignore C++ source files in the /array/ directory
 !/array/*.cpp
 !/sorting/*.cpp
 !/binary-search/*.cpp
+!/number/*.cpp
