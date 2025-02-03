@@ -7,9 +7,13 @@
 /binary-search/*.exe
 /number/*.o
 /number/*.exe
+/string/*.o
+/string/*.exe
+
 
 # Do not ignore C++ source files in the /array/ directory
 !/array/*.cpp
 !/sorting/*.cpp
 !/binary-search/*.cpp
 !/number/*.cpp
+!/string/*.cpp
