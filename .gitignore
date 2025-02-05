@@ -9,6 +9,8 @@
 /number/*.exe
 /string/*.o
 /string/*.exe
+/STLcontainer/*.o
+/STLcontainer/*.exe
 
 
 # Do not ignore C++ source files in the /array/ directory
@@ -17,3 +19,4 @@
 !/binary-search/*.cpp
 !/number/*.cpp
 !/string/*.cpp
+!/STLcontainer/*.cpp
